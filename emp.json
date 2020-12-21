@@ -1,0 +1,392 @@
+{
+  "users": [
+    {
+      "username": "25080036",
+      "enabled": true,
+      "firstName": "先勇",
+      "lastName": "冯",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60002993",
+      "enabled": true,
+      "firstName": "直",
+      "lastName": "耿",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60005882",
+      "enabled": true,
+      "firstName": "慧慧",
+      "lastName": "韩",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "25070003",
+      "enabled": true,
+      "firstName": "鹏飞",
+      "lastName": "纪",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "25070004",
+      "enabled": true,
+      "firstName": "莉",
+      "lastName": "孔",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "25070005",
+      "enabled": true,
+      "firstName": "任昊",
+      "lastName": "李",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60007386",
+      "enabled": true,
+      "firstName": "佳",
+      "lastName": "刘",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60006564",
+      "enabled": true,
+      "firstName": "少钨",
+      "lastName": "倪",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60005367",
+      "enabled": true,
+      "firstName": "加旺",
+      "lastName": "欧",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60006921",
+      "enabled": true,
+      "firstName": "成军",
+      "lastName": "亓",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60007396",
+      "enabled": true,
+      "firstName": "雄",
+      "lastName": "秦",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60007385",
+      "enabled": true,
+      "firstName": "晨",
+      "lastName": "邱",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60001808",
+      "enabled": true,
+      "firstName": "晗",
+      "lastName": "曲",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60001253",
+      "enabled": true,
+      "firstName": "诚帅",
+      "lastName": "石",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "25070011",
+      "enabled": true,
+      "firstName": "冬",
+      "lastName": "谭",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "25080040",
+      "enabled": true,
+      "firstName": "莉萍",
+      "lastName": "王",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60005881",
+      "enabled": true,
+      "firstName": "骑",
+      "lastName": "王",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "25070006",
+      "enabled": true,
+      "firstName": "迎雪",
+      "lastName": "王",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60003881",
+      "enabled": true,
+      "firstName": "泽鹏",
+      "lastName": "王",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60006563",
+      "enabled": true,
+      "firstName": "建军",
+      "lastName": "吴",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "25090006",
+      "enabled": true,
+      "firstName": "小峰",
+      "lastName": "叶",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "25080004",
+      "enabled": true,
+      "firstName": "磊",
+      "lastName": "张",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60006565",
+      "enabled": true,
+      "firstName": "磊",
+      "lastName": "张",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "25070008",
+      "enabled": true,
+      "firstName": "仟栋",
+      "lastName": "张",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "25090014",
+      "enabled": true,
+      "firstName": "强",
+      "lastName": "张",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "60003880",
+      "enabled": true,
+      "firstName": "政",
+      "lastName": "张",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "25050302",
+      "enabled": true,
+      "firstName": "子涛",
+      "lastName": "张",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "25070010",
+      "enabled": true,
+      "firstName": "淼",
+      "lastName": "周",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    },
+    {
+      "username": "25080017",
+      "enabled": true,
+      "firstName": "林纳",
+      "lastName": "杜",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "password"
+        }
+      ]
+    }
+  ],
+  "roles": {
+    "realm": [
+      {
+        "name": "assistant",
+        "description": "助理"
+      },
+      {
+        "name": "supervisor",
+        "description": "主管"
+      },
+      {
+        "name": "project_manager",
+        "description": "项目经理"
+      },
+      {
+        "name": "group_leader",
+        "description": "组长"
+      },
+      {
+        "name": "engineer",
+        "description": "工程师"
+      }
+    ]
+  },
+  "groups": [
+    {
+      "name": "项目二部",
+      "path": "/项目二部",
+      "subGroups": [
+        {
+          "name": "二租",
+          "path": "/项目二部/二租"
+        },
+        {
+          "name": "一组",
+          "path": "/项目二部/一组"
+        }
+      ]
+    }
+  ]
+}
