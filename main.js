@@ -10,7 +10,7 @@ function getUsers () {
     lastName: l[3][0],
     email:l[5],
     realmRoles: (roles.map(v=>v[1]===l[4]&&v[0]).filter(Boolean)).concat("offline_access", "uma_authorization"),
-    groups: [l[6]!==undefined?l[2]+"/"+l[6]:l[2]],
+    groups: [l[2]],
     clientRoles: {
       "account": ["view-profile", "manage-account"]
   },
