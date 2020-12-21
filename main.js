@@ -34,12 +34,12 @@ function getGroup () {
       path: '/项目二部',
       subGroups: [
         {
-          name: '二租',
-          path: '/项目二部/二租'
+          name: '二组',
+          path: '/项目二部/一组'
         },
         {
           name: '一组',
-          path: '/项目二部/一组'
+          path: '/项目二部/二组'
         }
       ]
     }
