@@ -4,6 +4,9 @@ function getUsers () {
   const content = fs.readFileSync('./emp.txt').toString('utf-8')
   const lines = content.split(/\n/g).map(line => line.split(/\s+/g))
   return lines.map(l => ({
+    requiredActions:[
+      "UPDATE_PASSWORD"
+    ],
     username: l[0],
     enabled: true,
     firstName: l[3].slice(1),
@@ -57,6 +60,26 @@ function getGroup () {
 }
 
 const genObj = {
+  id: "pm",
+  realm: "pm",
+  // 默认角色
+  defaultRoles: [
+    "offline_access",
+    "uma_authorization"
+  ],
+  // 国际化
+  internationalizationEnabled: true,
+  defaultLocale: "zh-CN",
+  smtpServer: {
+    "password": "",
+    "starttls": "",
+    "auth": "true",
+    "port": "465",
+    "host": "smtp.263.net",
+    "from": "",
+    "ssl": "true",
+    "user": ""
+  },
   users: getUsers(),
   roles: {
     realm: getRoles()
