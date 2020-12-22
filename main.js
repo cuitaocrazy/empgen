@@ -71,14 +71,14 @@ const genObj = {
   internationalizationEnabled: true,
   defaultLocale: "zh-CN",
   smtpServer: {
-    "password": "",
+    "password": "qwewsad1996a",
     "starttls": "",
     "auth": "true",
     "port": "465",
     "host": "smtp.263.net",
-    "from": "",
+    "from": "chengshuai.shi@bjyada.com",
     "ssl": "true",
-    "user": ""
+    "user": "chengshuai.shi@bjyada.com"
   },
   users: getUsers(),
   roles: {
