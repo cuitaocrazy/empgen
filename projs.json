@@ -52,7 +52,7 @@
   },
   {
     "id": "BOC-BJ-YF-YHYX-2101",
-    "name": "优惠营销升级",
+    "name": "北京优惠营销升级",
     "leader": "25070003",
     "budget": 5000,
     "createDate": "20200701",
@@ -219,7 +219,7 @@
   },
   {
     "id": "BOC-HEB-YF-MCPP-2001",
-    "name": "仿智能POS升级321",
+    "name": "河北仿智能POS升级321",
     "leader": "25070008",
     "budget": 12000,
     "createDate": "20201101",
@@ -233,7 +233,7 @@
   },
   {
     "id": "BOC-HEB-YF-MCPP-1801",
-    "name": "仿智能POS",
+    "name": "河北仿智能POS",
     "leader": "60002993",
     "budget": 34800,
     "createDate": "20180101",
@@ -245,7 +245,7 @@
   },
   {
     "id": "BOC-HUB-YF-MCPP-2001",
-    "name": "MCPP",
+    "name": "湖北MCPP",
     "leader": "25080004",
     "budget": 150000,
     "createDate": "20201215",
@@ -257,7 +257,7 @@
   },
   {
     "id": "BOC-SZ-YF-SH-2001",
-    "name": "机具管理系统",
+    "name": "深圳机具管理系统",
     "leader": "25070003",
     "budget": 19000,
     "createDate": "20190101",
@@ -269,7 +269,7 @@
   },
   {
     "id": "BOC-SZ-YF-SSP-2001",
-    "name": "财政非税",
+    "name": "深圳财政非税",
     "leader": "60006921",
     "budget": 6000,
     "createDate": "20200115",
@@ -281,7 +281,7 @@
   },
   {
     "id": "BOC-SZ-YF-MCPP-2001",
-    "name": "聚合支付",
+    "name": "深圳聚合支付",
     "leader": "25070008",
     "budget": 30000,
     "createDate": "20200115",
@@ -322,7 +322,7 @@
   },
   {
     "id": "BOC-HEN-YF-MCPP-2001",
-    "name": "仿智能POS升级项目",
+    "name": "河南仿智能POS升级项目",
     "leader": "25070008",
     "budget": 8000,
     "createDate": "20200915",
@@ -361,7 +361,7 @@
   },
   {
     "id": "BOC-SX-YF-YHYX-2001",
-    "name": "优惠营销及DMZ迁移",
+    "name": "陕西优惠营销及DMZ迁移",
     "leader": "60002993",
     "budget": 30000,
     "createDate": "20200501",
@@ -373,7 +373,7 @@
   },
   {
     "id": "BOC-NB-YF-SSP-2001",
-    "name": "仿智能POS升级酒店预定金",
+    "name": "宁波仿智能POS升级酒店预定金",
     "leader": "25070008",
     "budget": 4000,
     "createDate": "20200901",
@@ -399,7 +399,7 @@
   },
   {
     "id": "BOC-HLJ-YF-MCPP-2001",
-    "name": "满E购",
+    "name": "黑龙江满E购",
     "leader": "25070008",
     "budget": 12000,
     "createDate": "20200828",
