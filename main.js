@@ -4,25 +4,23 @@ function getUsers () {
   const content = fs.readFileSync('./emp.txt').toString('utf-8')
   const lines = content.split(/\n/g).map(line => line.split(/\s+/g))
   return lines.map(l => ({
-    requiredActions:[
-      "UPDATE_PASSWORD"
+    requiredActions: [
+      'UPDATE_PASSWORD'
     ],
     username: l[0],
     enabled: true,
     firstName: l[3].slice(1),
     lastName: l[3][0],
-    email:l[5],
-    realmRoles: (roles.map(v=>v[1]===l[4]&&v[0]).filter(Boolean)).concat("offline_access", "uma_authorization"),
+    email: l[5],
+    realmRoles: (roles.map(v => v[1] === l[4] && v[0]).filter(Boolean)).concat('offline_access', 'uma_authorization'),
     groups: [l[2]],
     clientRoles: {
-      "account": ["view-profile", "manage-account"]
-  },
+      account: ['view-profile', 'manage-account']
+    },
     credentials: [{
       type: 'password',
       value: 'password'
-    }],
-
-
+    }]
   }))
 }
 const roles = [
@@ -60,25 +58,25 @@ function getGroup () {
 }
 
 const genObj = {
-  id: "pm",
-  realm: "pm",
+  id: 'pm',
+  realm: 'pm',
   // 默认角色
   defaultRoles: [
-    "offline_access",
-    "uma_authorization"
+    'offline_access',
+    'uma_authorization'
   ],
   // 国际化
   internationalizationEnabled: true,
-  defaultLocale: "zh-CN",
+  defaultLocale: 'zh-CN',
   smtpServer: {
-    "password": "qwewsad1996a",
-    "starttls": "",
-    "auth": "true",
-    "port": "465",
-    "host": "smtp.263.net",
-    "from": "chengshuai.shi@bjyada.com",
-    "ssl": "true",
-    "user": "chengshuai.shi@bjyada.com"
+    password: '',
+    starttls: '',
+    auth: 'true',
+    port: '465',
+    host: 'smtp.263.net',
+    from: '',
+    ssl: 'true',
+    user: 'chengshuai.shi@bjyada.com'
   },
   users: getUsers(),
   roles: {
