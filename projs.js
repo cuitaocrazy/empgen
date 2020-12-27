@@ -4,7 +4,7 @@ const R = require('ramda')
 const projsType = [
   ['售前', 'preSale'],
   ['售中', 'onSale'],
-  ['售后', 'aflterSale']
+  ['售后', 'afterSale']
 
 ]
 // 项目文件
@@ -43,7 +43,7 @@ function getDefends () {
       name: l[1] + '维护',
       leader: pms.filter(v => v[3] === l[3])[0][0],
       budget: parseInt(l[5].replace(/,/g, '')),
-      createDate: '',
+      createDate: '20200101',
       type: projsType.map(v => v[0] === l[2] && v[1]).filter(Boolean).toString(),
       // 没有员工编号的不会显示
       participants: [].concat(pms.filter(v => v[3] === l[3])[0][0]),
