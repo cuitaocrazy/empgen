@@ -17,7 +17,7 @@
 60003881	软件事业部	项目二部/创新组	    王泽鹏   工程师      zepeng.wang@bjyada.com          
 25090006	软件事业部	项目二部/苏州组	    叶小峰   组长,项目经理        xiaofeng.ye@bjyada.com          
 25080004	软件事业部	项目二部/特色组	    张磊     组长,项目经理       lei.zhang@bjyada.com             
-60006565	软件事业部	项目二部/苏州组	    张磊     工程师      zhanglei.sz@bjyada.com          
+60006565	软件事业部	项目二部/苏州组	    张磊(苏州)     工程师      zhanglei.sz@bjyada.com          
 25070008	软件事业部	项目二部/创新组	    张仟栋   组长,项目经理        qiandong.zhang@bjyada.com       
 25090014	软件事业部	项目二部/特色组	    张强     工程师      zhangqiang@bjyada.com           
 60003880	软件事业部	项目二部/创新组	    张政     工程师      zheng.zhang@bjyada.com          
