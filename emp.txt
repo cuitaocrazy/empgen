@@ -23,4 +23,5 @@
 60003880	软件事业部	项目二部/创新组	    张政     工程师      zheng.zhang@bjyada.com          
 25070010	软件事业部	项目二部/创新组	    周淼     工程师      miao.zhou@bjyada.com            
 25080017	软件事业部	项目二部	       杜林纳   助理,工程师        linna.du@bjyada.com             
-00000000    软件事业部  项目二部           黄立松   主管        lisong.huang@bjyada.com         
+00000000    软件事业部  项目二部           黄立松   主管        lisong.huang@bjyada.com
+25080042    软件事业部  项目二部/特色组	    黄洪    项目经理    hong.huang@bjyada.com
