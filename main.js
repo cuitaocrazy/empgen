@@ -78,6 +78,7 @@ const genObj = {
     ssl: 'true',
     user: 'rjeb_service@bjyada.com'
   },
+  ssoSessionIdleTimeout: 2592000,
   users: getUsers(),
   roles: {
     realm: getRoles()
